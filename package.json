@@ -1,6 +1,7 @@
 {
-  "name": "bootcamp-api",
+  "name": "projeto-cypress",
   "version": "1.0.0",
+  "description": "- [cypress](cypress.md)\r - [postman](postman.md)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,8 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "cypress": "^13.11.0"
+    "cypress": "^13.13.1"
   }
 }

@@ -91,3 +91,16 @@ Dentro da pasta cypress, criar o diretório e2e,
 
 Criar arquivo `buscar_dispositivo.cy.js` com os cenários de teste.
 
+## Executar um teste em modo Headless
+
+Sem acesso ao Browser, Background
+
+```bash
+npx cypress run
+```
+
+Vai gerar um MP4 ;-(
+
+
+
+

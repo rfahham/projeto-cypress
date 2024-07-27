@@ -1,12 +1,19 @@
-# Bootcamp de API
+# Cypress
+
+cypress.io
 
 - [cypress](cypress.md)
 - [postman](postman.md)
 
-Sites para estudos
+## Cypress essencial mindmap
 
-https://restful-api.dev/
-https://restful-booker.herokuapp.com/
-https://restful-booker.herokuapp.com/apidoc/index.html
+https://github.com/samlucax/cypress-essencial-mindmap
 
+## VSCode Extensions
+
+Cypress Snippets
+
+Exemplo:
+
+!cyProject
 
