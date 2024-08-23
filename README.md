@@ -17,3 +17,6 @@ Exemplo:
 
 !cyProject
 
+## GIT ACTIONS
+
+https://github.com/marketplace/actions/cypress-io#artifacts
